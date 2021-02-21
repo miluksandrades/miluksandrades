@@ -6,12 +6,12 @@
 <img src="image.gif" align="right" width="300">
 
 ### Sobre mim:
-📊 Monitoramento de Redes e análise de problemas
-👨🏽‍💻 Desenvolvimento em Angular
-🎮 Alguns joginhos para descontrair
-🙊 Não gosto de conversas, amo o silêncio
-⛺ Acampar e observar os astros
-🏹 Seriedade em qual situação
+- 📊 Monitoramento de Redes e análise de problemas
+- 👨🏽‍💻 Desenvolvimento em Angular
+- 🎮 Alguns joginhos para descontrair
+- 🙊 Não gosto de conversas, amo o silêncio
+- ⛺ Acampar e observar os astros
+- 🏹 Seriedade em qual situação
 
 ### Principais Habilidades
 <p align="left"> 

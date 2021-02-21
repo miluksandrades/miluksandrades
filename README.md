@@ -21,7 +21,6 @@
   <img src="https://icongr.am/devicon/javascript-original.svg?size=35&color=currentColor" alt="JavaScript"/>
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor" alt="NodeJS"/>
   <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=40&color=4e1d58" alt="Bootstrap"/>
-  <img src="https://icongr.am/devicon/trello-plain-wordmark.svg?size=40&color=currentColor" alt="Trello"/>
   <img src="https://icongr.am/devicon/debian-original.svg?size=38&color=a80030" alt="Debian"/>
   <img src="https://grafana.com/static/assets/img/fav32.png" alt="Grafana"/>
   <img src="https://assets.zabbix.com/dist/images/fd87efa6da9bed3fd8c9cfb442a3d537.svg" width="100" alt="Grafana"/>

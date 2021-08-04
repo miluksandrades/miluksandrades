@@ -27,7 +27,9 @@
 
 </p>
 
-<a href="https://github.com/miluksandrades">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=miluksandrades&theme=dracula&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miluksandrades&layout=compact&theme=dracula"/>
-<div>
+<div style="align-items: center; text-align: center">
+  <a href="https://github.com/miluksandrades">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=miluksandrades&theme=dracula&show_icons=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miluksandrades&layout=compact&theme=dracula"/>
+  </a>
+</div>

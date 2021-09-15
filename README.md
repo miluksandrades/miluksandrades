@@ -1,7 +1,7 @@
 # Lucas Andrade 👨🏽‍💻
 [![Linkedin: mil-lucas-andrade](https://img.shields.io/badge/-Lucas%20Andrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mil-lucas-andrade/)](https://www.linkedin.com/in/mil-lucas-andrade/)
 
-<p style="text-align: justify">Olá, sou Lucas Andrade, sou desenvolvedor frontend desde 2017. Sou bacharel em Engenharia de Computação pela UniEvangélica no ano de 2019. Atualmente atuo como analista de rede na Toppnet Telecom, onde exerço a função de analista de monitoramento, configuração e manutenção de equipamentos de redes ópticas e rádio, treinamento de equipes, configuração de servidores linux para monitoramento de devices das marcas MIKROTIK, HUAWEI, UBIQUITI entre outros.</p>
+<p style="text-align: justify">Olá, sou Lucas Andrade e estudo frontend desde 2017. Sou bacharel em Engenharia de Computação pela UniEvangélica no ano de 2019. Meu principal framework que utilizo é o Angular, porém venho aprendendo ReactJS para ampliar o conhecimento na área de frontend. Tenho um conhecimento básico de javascript e css e utilizei a Stack Postgres + Express + Angular + NodeJS para a criação de um Business Intelligence para provedores de internet. Tenho facilidade para aprender e gosto muito de aprender novas ferramentas. </p>
 
 <img src="image.gif" align="right" width="300">
 

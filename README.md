@@ -9,7 +9,6 @@
 - 📊 Monitoramento de Redes e análise de problemas
 - 👨🏽‍💻 Desenvolvimento em Angular
 - 🎮 Alguns joguinhos para descontrair
-- 🙊 Não gosto de conversas, amo o silêncio
 - ⛺ Acampar e observar os astros
 - 🏹 Seriedade em qual situação
 

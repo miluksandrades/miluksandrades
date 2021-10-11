@@ -7,7 +7,8 @@
 
 ### Sobre mim:
 - 📊 Monitoramento de Redes e análise de problemas
-- 👨🏽‍💻 Desenvolvimento em Angular
+- 👨🏽‍💻 Desenvolvimento de aplicações em Angular e ReactJS
+- 🎲 Banco de dados SQL
 - 🎮 Alguns joguinhos para descontrair
 - ⛺ Acampar e observar os astros
 

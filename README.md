@@ -20,7 +20,7 @@
   <img src="https://icongr.am/devicon/javascript-original.svg?size=35&color=currentColor" alt="JavaScript"/>
   <img src="https://icongr.am/devicon/typescript-original.svg?size=35&color=currentColor" alt="TypeScript"/>
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor" alt="NodeJS"/>
-  <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=40&color=4e1d58" alt="Bootstrap"/>
+  <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=40&color=7952b3" alt="Bootstrap"/>
 </p>
 
 <div style="text-align: center">

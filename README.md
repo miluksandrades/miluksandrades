@@ -24,7 +24,7 @@
   <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=40&color=7952b3" alt="Bootstrap"/>
 </p>
 
-<div style="text-align: center; display: flex; justify-content: center">
+<div style="text-align: center; display: flex; justify-content: center; width: 100%">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=miluksandrades&theme=dracula&show_icons=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miluksandrades&layout=compact&theme=dracula"/>
 </div>

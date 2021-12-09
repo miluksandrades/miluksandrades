@@ -14,7 +14,7 @@
 
 ### Principais Habilidades
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Js" src="https://img.shields.io/badge/-Javascript-%23F0DB4F?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Lucas-Js" src="https://img.shields.io/badge/-Javascript-%23F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F">
   <img align="center" alt="Lucas-Ts" src="https://img.shields.io/badge/-Typescript-%23007acc?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Lucas-HTML" src="https://img.shields.io/badge/-HTML5-%23E44D26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Lucas-CSS" src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"> 

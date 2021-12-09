@@ -21,6 +21,7 @@
   <img align="center" alt="Lucas-React" src="https://img.shields.io/badge/-React-%23FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Lucas-Angular" src="https://img.shields.io/badge/-Angular-%23FF0000?style=for-the-badge&logo=angularjs&logoColor=white">
 </div>
+<hr styles="width: 100%" />
 
 <div style="display: flex; justify-content: center; width: 100%" align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=miluksandrades&theme=dracula&show_icons=true"/>

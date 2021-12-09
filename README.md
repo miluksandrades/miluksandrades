@@ -13,16 +13,14 @@
 - ⛺ Acampar e observar os astros
 
 ### Principais Habilidades
-<p align="left">
-  <img src="https://icongr.am/devicon/angularjs-plain.svg?size=38&color=dd0031" alt="Angular"/>
-  <img src="https://icongr.am/devicon/react-original.svg?size=38&color=currentColor" alt="React"/>
-  <img src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor" alt="HTML5"/>
-  <img src="https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor" alt="CSS3"/>
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=35&color=currentColor" alt="JavaScript"/>
-  <img src="https://icongr.am/devicon/typescript-original.svg?size=35&color=currentColor" alt="TypeScript"/>
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor" alt="NodeJS"/>
-  <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=40&color=7952b3" alt="Bootstrap"/>
-</p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Lucas-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+</div>
 
 <div style="display: flex; justify-content: center; width: 100%" align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=miluksandrades&theme=dracula&show_icons=true"/>

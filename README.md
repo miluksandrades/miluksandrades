@@ -11,13 +11,13 @@
 - 🎲 Banco de dados SQL
 - 🎮 Alguns joguinhos para descontrair
 - ⛺ Acampar e observar os astros
-1572B6
+
 ### Principais Habilidades
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" src="https://img.shields.io/badge/-CSS3-%23FF0000?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img align="center" alt="Lucas-CSS" src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img align="center" alt="Lucas-React" src="https://img.shields.io/badge/-React-%23FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Lucas-Angular" src="https://img.shields.io/badge/-Angular-%23FF0000?style=for-the-badge&logo=angularjs&logoColor=white">
 </div>

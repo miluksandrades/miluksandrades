@@ -18,7 +18,7 @@
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="Lucas-React" src="https://img.shields.io/badge/-Angular-%2361DAFB?style=for-the-badge&logo=angularjs&logoColor=white">
+  <img align="center" alt="Lucas-React" src="https://img.shields.io/badge/-Angular-%2361DAFB?style=for-the-badge&logo=reactjs&logoColor=white">
   <img align="center" alt="Lucas-Angular" src="https://img.shields.io/badge/-Angular-%23FF0000?style=for-the-badge&logo=angularjs&logoColor=white">
 </div>
 

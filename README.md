@@ -7,7 +7,7 @@
 
 ### Sobre mim:
 - 📊 Monitoramento de Redes e análise de problemas
-- 👨🏽‍💻 Desenvolvimento de aplicações em Angular e ReactJS
+- 👨🏽‍💻 Desenvolvimento de aplicações em ReactJS e componentes na platafoma VTEX
 - 🎲 Banco de dados SQL
 - 🎮 Alguns joguinhos para descontrair
 - ⛺ Acampar e observar os astros

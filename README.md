@@ -19,7 +19,6 @@
   <img align="center" alt="Lucas-HTML" src="https://img.shields.io/badge/-HTML5-%23E44D26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Lucas-CSS" src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img align="center" alt="Lucas-React" src="https://img.shields.io/badge/-React-%23012c38?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Lucas-Angular" src="https://img.shields.io/badge/-Angular-%23FF0000?style=for-the-badge&logo=angularjs&logoColor=white">
 </div>
 <hr styles="width: 100%" />
 

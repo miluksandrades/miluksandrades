@@ -23,5 +23,6 @@
 <hr styles="width: 100%" />
 
 <div style="display: flex; justify-content: center; width: 100%" align="center">
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=miluksandrades&theme=dracula&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=miluksandrades&theme=dark&hide_border=true" alt="miluksandrades's GitHub Stats" />
 </div>
+

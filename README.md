@@ -23,6 +23,5 @@
 <hr styles="width: 100%" />
 
 <div style="display: flex; justify-content: center; width: 100%" align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=miluksandrades&theme=dracula&show_icons=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miluksandrades&layout=compact&theme=dracula"/>
+    ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=miluksandrades&show_icons=true&theme=transparent)
 </div>

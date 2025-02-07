@@ -22,4 +22,6 @@
 </div>
 <hr styles="width: 100%" />
 
-![miluksandrades's Streak](https://github-readme-streak-stats.herokuapp.com/?user=miluksandrades&theme=dracula&hide_border=true)
+<div style="display: flex; justify-content: center; width: 100%" align="center">
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=miluksandrades&theme=dracula&hide_border=true"/>
+</div>

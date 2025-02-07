@@ -23,5 +23,5 @@
 <hr styles="width: 100%" />
 
 <div style="display: flex; justify-content: center; width: 100%" align="center">
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=miluksandrades&show_icons=true&theme=transparent" />
+    ![miluksandrades's Streak](https://github-readme-streak-stats.herokuapp.com/?user=miluksandrades&theme=dracula&hide_border=true)
 </div>

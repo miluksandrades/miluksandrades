@@ -23,5 +23,5 @@
 <hr styles="width: 100%" />
 
 <div style="display: flex; justify-content: center; width: 100%" align="center">
-    ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=miluksandrades&show_icons=true&theme=transparent)
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=miluksandrades&show_icons=true&theme=transparent" />
 </div>
